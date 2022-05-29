@@ -1,0 +1,21 @@
+What is Hotel Booking Demand (Introduction)?
+We have two criteria hotel demand data. One of the hotels (H1) is a resort hotel and the other is a city hotel (H2). Both datasets share the same structure, with 31 variables describing the 40060 observations of H1 and 79330 observations of H2. Each observation represents a hotel booking.
+
+In tourism and travel related industries, most of the research on Revenue Management demand forecasting and prediction problems
+
+However, the remaining tourism and travel industries like hospitality, cruising, theme parks, etc., have different requirements and particularities that cannot be fully explored without industry’s specific data. Hence, two hotel datasets with demand data are shared to help in overcoming this limitation.
+
+The datasets now made available were collected aiming at the development of prediction models to classify a hotel booking’s likelihood to be canceled. Nevertheless, due to the characteristics of the variables included in these datasets, their use goes beyond this cancellation prediction problem. One of the most important properties in data for prediction models is not to promote leakage of future information
+
+
+
+End user Goal for Hotel Booking Demand is!
+By utilizing the predictive model, hotels will able to identify the issue why customer canceling their booking and reason behind and which period of time more cancelation happening. It would be greatful to identify root cause and bettter startegy for hotel management team.
+
+Here we are going to extract the insight about most of the customer prefer resort or city hotel...
+
+By using EDA(Exploratory Data Analysis) we are analysing and visualising the different prospective. Which gives us different insights like ( 1. Customer visits on mostly which month, 2. days in months, 3. most cancelation month, etc).
+
+Lets visualise the more insights while performing Exploratory Data Analysis.
+
+we are helping hotels to get ready with necessary arrangements on heavy and low tourist visit periods.
